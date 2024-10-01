@@ -2,7 +2,7 @@
 replicaCount: 2
 
 image:
-  repository: harbor.test.myfaccloud-301.com/demogitops/my-app
+  repository: harbor.test.myfaccloud-301.com/demogitops/simple-app
   tag: "latest"
   pullPolicy: IfNotPresent
 
