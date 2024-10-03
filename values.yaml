@@ -1,5 +1,5 @@
 # values.yaml
-replicaCount: 4
+replicaCount: 5
 
 image:
   repository: harbor.test.myfaccloud-301.com/demogitops/simple-app

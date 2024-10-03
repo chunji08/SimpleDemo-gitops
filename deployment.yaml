@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: simple-app
-        image: harbor.test.myfaccloud-301.com/demogitops/simpleDemo:latest
+        image: harbor.test.myfaccloud-301.com/demogitops/simple-app:latest
         ports:
         - containerPort: 80
