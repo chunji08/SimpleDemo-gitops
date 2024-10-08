@@ -2,8 +2,8 @@
 replicaCount: 3
 
 image:
-  repository: harbor.test.myfaccloud-301.com/demogitops/naptune
-  tag: 20241008-215014
+  repository: harbor.test.myfaccloud-301.com/demogitops/simple-app
+  tag: 20241008-215403
   pullPolicy: IfNotPresent
 
 service:
