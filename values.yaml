@@ -2,8 +2,8 @@
 replicaCount: 3
 
 image:
-  repository: harbor.test.myfaccloud-301.com/demogitops/simple-app
-  tag: 20241010-141106
+  repository: harbor.test.myfaccloud-301.com/fortinet/simple-app
+  tag: 20241010-141608
   pullPolicy: IfNotPresent
 
 service:
