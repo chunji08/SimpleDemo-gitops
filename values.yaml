@@ -3,7 +3,7 @@ replicaCount: 3
 
 image:
   repository: harbor.test.myfaccloud-301.com/demogitops/simple-app
-  tag: 20241010-141021
+  tag: 20241010-141106
   pullPolicy: IfNotPresent
 
 service:
