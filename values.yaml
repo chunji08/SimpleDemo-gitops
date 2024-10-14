@@ -3,7 +3,7 @@ replicaCount: 3
 
 image:
   repository: harbor.test.myfaccloud-301.com/fortinet/simple-app
-  tag: 20241014-100233
+  tag: 20241014-173636
   pullPolicy: IfNotPresent
 
 service:
